@@ -4,7 +4,9 @@
   ,<br> eu sou Pedro Igor.
 </h3>
 
-- 🔭 Atualmente estou trabalhando na M. Dias Branco como Assistente Administrativo, mas estou estudando Análise e Desenvolvimento de Sistema e em um futuro próximo desejo já está programando :)
+<div align="center">
+Atualmente estou trabalhando na M. Dias Branco como Assistente Administrativo, mas estou estudando Análise e Desenvolvimento de Sistema e em um futuro próximo desejo já está programando :)
+</div>
 
 <br/>
 
