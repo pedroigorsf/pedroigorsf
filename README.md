@@ -1,7 +1,5 @@
 <h3 align="center">
-  Olá
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  ,<br> eu sou Pedro Igor.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey there, I am Pedro Igor.
 </h3>
 
 <div align="center">
