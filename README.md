@@ -14,17 +14,19 @@ Atualmente estou trabalhando na M. Dias Branco como Assistente Administrativo, m
 <div align="right">
 <a href="https://github.com/pedroigorsf?tab=followers">
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/pedroigorsf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
+<!-- STARTS
 <a href="https://github.com/pedroigorsf?tab=repositories&sort=stargazers">
 <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/pedroigorsf"/></a>
-    
+-->
 <a href="https://www.linkedin.com/in/pisf/">  
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
 
+<!-- INSTAGRAM
 <a href="#">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+-->
 
 <a href="mailto:pedroigorsaraivaferreira@live.com">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
