@@ -1,25 +1,36 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Igor</h1>
- 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+```js
+import Developer from 'pedroigorsf';
 
-- 🔥 technology student always looking to learn, a Junior developer.
- 
-- 🔭 I'm currently not working with development.
-    
-- 💬 Ask me about 
+class AboutMe extends Developer {
+  age        = 28;
+  work       = true;
+  locality   = 'Maracanaú/CE (Brazil)';
+  english    = 'Basic to Intermediate';
+  name       = 'Pedro Igor Saraiva Ferreira';
+  email      = 'pedroigorsaraivaferreira@live.com';
+  linkedin   = 'https://www.linkedin.com/in/pedroigorsf/';
+}
 
-- ⚡ Fun fact **I'm a diabetic  😜**
+class Skills extends Developer {
+  systems        = ['Windows', 'Ubuntu'];
+  frameworks     = ['React', 'Nest.js', 'Materialize'];
+  languages      = ['JavaScript', 'Python', 'HTML', 'CSS', 'TypeScript', 'C#', 'SQL'];
+  software       = ['VSCode', 'Docker', 'ChatGPT', 'Beekeeper', 'Insomnia', 'Discord'];
+}
 
-- 📫 How to reach me: **pedroigorsaraivaferreira@live.com**
-  <br/>
+```
+
+<h3> Work Experiences <h3/>
+
+<samp>
+	
+[<img align="left" width="100x" alt="SouJunior" src="https://avatars.githubusercontent.com/u/110061412?s=200&v=4"/>](https://github.com/SouJunior)
+
+*Back-end Developer* (Volunteer project) \
+Languages ​​and Technologies: `Javascript`, `Typescript`, `Nest.js`, `Docker`, `Postgres`, `Insomnia`\
+Featured projects: [Website](https://github.com/SouJunior)
 	 
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>Connect with me </h3>
+*Connect with me*
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 </div>
 
@@ -34,3 +45,4 @@
 <a href="mailto:pedroigorsaraivaferreira@live.com">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
 </a>
+<samp/>
