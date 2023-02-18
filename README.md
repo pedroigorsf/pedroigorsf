@@ -27,7 +27,7 @@ class Skills extends Developer {
 [<img align="left" width="100x" alt="SouJunior" src="https://avatars.githubusercontent.com/u/110061412?s=200&v=4"/>](https://github.com/SouJunior)
 
 *Back-end Developer* (Volunteer project) \
-Languages ​​and Technologies: `Javascript`, `Typescript`, `Nest.js`, `Docker`, `Postgres`, `Insomnia`\
+Languages ​​and Technologies: `Javascript`, `Typescript`, `Nest.js`, `Docker`, `Insomnia`\
 Featured projects: [Website](https://github.com/SouJunior)
 	 
 *Connect with me*
