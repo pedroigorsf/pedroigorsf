@@ -5,6 +5,7 @@ class AboutMe extends Developer {
   age        = 28;
   work       = true;
   locality   = 'Maracanaú/CE (Brazil)';
+  portuguese = 'Native';
   english    = 'Basic to Intermediate';
   name       = 'Pedro Igor Saraiva Ferreira';
   email      = 'pedroigorsaraivaferreira@live.com';
@@ -14,22 +15,12 @@ class AboutMe extends Developer {
 class Skills extends Developer {
   systems        = ['Windows', 'Ubuntu'];
   frameworks     = ['React', 'Nest.js', 'Materialize'];
-  languages      = ['JavaScript', 'Python', 'HTML', 'CSS', 'TypeScript', 'C#', 'SQL'];
+  languages      = ['TypeScript', 'JavaScript', 'Python', 'HTML', 'CSS', 'C#', 'SQL'];
   software       = ['VSCode', 'Docker', 'ChatGPT', 'Beekeeper', 'Insomnia', 'Discord'];
 }
 
 ```
 
-<h3> Work Experiences <h3/>
-
-<samp>
-	
-[<img align="left" width="100x" alt="SouJunior" src="https://avatars.githubusercontent.com/u/110061412?s=200&v=4"/>](https://github.com/SouJunior)
-
-*Back-end Developer* (Volunteer project) \
-Languages ​​and Technologies: `Javascript`, `Typescript`, `Nest.js`, `Docker`, `Insomnia`\
-Featured projects: [Website](https://github.com/SouJunior)
-	 
 *Connect with me*
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 </div>
