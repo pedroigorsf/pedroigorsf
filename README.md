@@ -2,7 +2,7 @@
 import Developer from 'pedroigorsf';
 
 class AboutMe extends Developer {
-  age        = 28;
+  age        = 29;
   work       = true;
   locality   = 'Maracanaú/CE (Brazil)';
   portuguese = 'Native';
