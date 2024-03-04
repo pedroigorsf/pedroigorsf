@@ -1,3 +1,6 @@
+## 🌐 Portfólio: https://pferreira.vercel.app/
+<br/>
+
 ```js
 import Developer from 'pedroigorsf';
 
@@ -6,17 +9,17 @@ class AboutMe extends Developer {
   work       = true;
   locality   = 'Maracanaú/CE (Brazil)';
   portuguese = 'Native';
-  english    = 'Basic to Intermediate';
-  name       = 'Pedro Igor Saraiva Ferreira';
+  english    = 'Intermediate';
+  name       = 'Pedro Ferreira';
   email      = 'pedroigorsaraivaferreira@live.com';
   linkedin   = 'https://www.linkedin.com/in/pedroigorsf/';
 }
 
 class Skills extends Developer {
-  systems        = ['Windows', 'Ubuntu'];
-  frameworks     = ['React', 'Nest.js', 'Materialize'];
-  languages      = ['TypeScript', 'JavaScript', 'Python', 'HTML', 'CSS', 'C#', 'SQL'];
-  software       = ['VSCode', 'Docker', 'ChatGPT', 'Beekeeper', 'Insomnia', 'Discord'];
+  systems        = ['Mac', 'Windows', 'Ubuntu'];
+  frameworks     = ['Code Igniter', 'Bootstrap', 'React', 'React Native'];
+  languages      = ['PHP', 'JavaScript', 'JSON', 'HTML', 'CSS', 'SQL'];
+  software       = ['VSCode', 'Vercel', 'Postman', 'Insomnia', 'Brave', 'Discord'];
 }
 
 ```
